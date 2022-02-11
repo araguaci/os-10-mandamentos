@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+    <header>
+        <title>Os 10 Mandamentos</title>
+        <link rel="stylesheet" type="text/css" href="./plugin/fullpage.css" />
+        <!-- This following line is optional. Only necessary if you use the option css3:false and you want to use other easing effects rather than "easeInOutCubic". -->
+        <script src="./vendors/easings.min.js"></script>
+        <!-- This following line is only necessary in the case of using the option `scrollOverflow:true` -->
+        <script type="text/javascript" src="./vendors/scrolloverflow.min.js"></script>
+        <script
+            src="https://cdnjs.cloudflare.com/ajax/libs/fullPage.js/3.1.2/fullpage.min.js"
+            integrity="sha512-gSf3NCgs6wWEdztl1e6vUqtRP884ONnCNzCpomdoQ0xXsk06lrxJsR7jX5yM/qAGkPGsps+4bLV5IEjhOZX+gg=="crossorigin="anonymous"
+            referrerpolicy="no-referrer"></script>
+        <link rel="stylesheet" type="text/css" href="./css/style.css" />
+    </header>
+    <body>
+        <div id="fullpage">
+            <div class="section">
+                <div class="slide" data-anchor="slide1">Não terás outros deuses
+                    além de mim.</div>
+                <div class="slide" data-anchor="slide2">Não farás para ti nenhum
+                    ídolo, nenhuma imagem de qualquer coisa no céu, na terra, ou
+                    nas águas debaixo da terra. Não te prostrarás diante deles
+                    nem lhes prestarás culto, porque eu, o Senhor,o teu Deus,
+                    sou Deus zelo­so, que castigo os filhos pelos pecados de
+                    seus pais até a terceira e quarta geração daqueles que me
+                    desprezam, mas trato com bondade até mil gerações aos que me
+                    amam e obedecem aos meus man­damentos.</div>
+                <div class="slide" data-anchor="slide3">Não tomarás em vão o
+                    nome do Senhor, o teu Deus, pois o Senhor não deixará impune
+                    quem tomar o seu nome em vão.</div>
+                <div class="slide" data-anchor="slide4">Lembra-te do dia de
+                    sábado, para santificá-lo. Trabalharás seis dias e neles
+                    farás todos os teus trabalhos, mas o sétimo dia é o sábado
+                    dedicado ao Senhor,o teu Deus. Nesse dia não farás trabalho
+                    algum, nem tu, nem teus filhos ou filhas, nem teus servos ou
+                    servas, nem teus animais, nem os estrangeiros que morarem em
+                    tuas cidades. Pois em seis dias o Senhor fez os céus e a
+                    terra, o mar e tudo o que neles existe, mas no sétimo dia
+                    descansou. Portanto, o Senhor abençoou o sétimo dia e o
+                    santificou.</div>
+                <div class="slide" data-anchor="slide5">Honra teu pai e tua mãe,
+                    a fim de que tenhas vida longa na terra que o Senhor,o teu
+                    Deus, te dá.</div>
+                <div class="slide" data-anchor="slide6">Não matarás.</div>
+                <div class="slide" data-anchor="slide7">Não adulterarás.</div>
+                <div class="slide" data-anchor="slide8">Não furtarás.</div>
+                <div class="slide" data-anchor="slide9">Não darás falso
+                    testemunho contra o teu próximo.</div>
+                <div class="slide" data-anchor="slide10">Não cobiçarás a casa do
+                    teu próximo. Não cobiçarás a mulher do teu próximo, nem seus
+                    servos ou servas, nem seu boi ou jumento, nem coisa alguma
+                    que lhe pertença.</div>
+            </div>
+        </div>
+    </body>
+    <script>
+        new fullpage('#fullpage', {
+            //options here
+            autoScrolling:true,
+            scrollHorizontally: true
+        });
+
+        //methods
+        fullpage_api.setAllowScrolling(false);
+    </script>
+</html
