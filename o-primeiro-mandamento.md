@@ -1,0 +1,18 @@
+## O PRIMEIRO MANDAΜΕΝΤΟ
+
+Não terás outros deuses diante de mim. Ex 20, 3
+
+Toda a lei de Cristo deriva da caridade. Os deveres da caridade, porém, fundamentam-se em dois preceitos: o amor de Deus e o amor do próximo. Destes dois já tratamos. Agora, porém, é preciso dizer que Deus, ao dar a lei a Moisés, deu dez Mandamentos escritos em duas tábuas de pedra: três dos quais foram escritos na primeira tábua, e referem-se ao amor de Deus; os sete outros foram escritos na segunda tábua, e referem-se ao amor do próximo. Assim, toda lei funda-se nestes dois preceitos.
+
+O primeiro que diz respeito ao amor de Deus é este: "Não terás outros deuses diante de mim". Para compreendê-lo é preciso dizer que os antigos de muitos modos transgrediam este Mandamento. Alguns, com efeito, prestavam culto aos demônios: "Todos os deuses das gentes são demônios" (Sl 95, 5). Este é o maior de todos os pecados, é horrível. Ainda hoje muitos transgridem este Mandamento ao dar ouvidos aos adivinhos e sortilégios. Santo Agostinho ensinava que tais coisas não se fazem sem que se contraia algum pacto com o demônio: "Não quero que vós tenhais sociedade com os demônios" (1 Cor 10, 20); e ainda: "Não podeis ser participantes da mesa do Senhor e da mesa dos demônios" (1Cor 10, 21).
+
+Outros cultuavam os corpos celestes, julgando serem deuses os astros: "Tomaram... os luzeiros dos céus, por deuses governadores do mundo" (Sab 13, 2). Por isso, Moisés proibiu aos judeus erguerem os olhos e adorarem o sol, a lua ou as estrelas: "Não suceda que, levantando os olhos ao céu, e vendo o sol, a lua, e todas as estrelas do céu, caiais em erro, adorando e prestando culto a essas coisas que o Senhor teu Deus criou para servir a todas as gentes" (Dt 4, 19). O mesmo se lê em Dt 5. Contra este preceito pecam os astrólogos que dizem serem elas que guiam as almas, quando na verdade elas foram feitas para o homem, de quem só Deus é o guia.
+
+Outros cultuavam os elementos inferiores:, "Tomaram o fogo, ou o vento (...) por deuses" (Sab 13, 2). Os homens que usam mal as coisas inferiores, amando-as excessivamente, caem no mesmo erro. Diz o Apóstolo: "O avaro, o qual é um idólatra" (Ef 5, 5). Outros erravam cultuando homens, aves ou outros animais, ou a si mesmos, o que pode ocorrer por três motivos:
+
+1) Pela fraqueza da carne: "Penetrado um pai de dor amarga, fez a imagem de seu filho, que prematuramente lhe tinha sido arrebatado, e àquele que não era mais que um morto, começou a adorar como deus" (Sab 14, 15).
+
+2) Pela adulação. Alguns, não podendo prestar honras a outros face a face, cuidaram de honrá-los à distância, fazendo imagens deles e cultuando-as: "Aqueles que não podiam honrar em presença os que estavam distantes, man- davam representar a sua figura que se achava longe... a fim de prestar àquele que estava ausente um culto tão zeloso como se estivesse presente" (Sab 14, 17). Procedem assim também os que amam e veneram os homens mais do que a Deus: "O que ama o pai ou a mãe mais do que a mim, não é digno de mim" (Mt 10, 37); "Não confieis nos príncipes, nem no homem que não pode salvar" (SI 145, 2-3).
+
+3) Pela presunção. Alguns por presunção quiseram ser chamados de deuses, como se vê nas Escrituras (Jd 3) a respeito de Nabucodonosor: "Assim fala o Senhor Deus: O teu coração elevou-se, tu disseste: Eu sou um deus" (Ez 28,2). E faz isto quem crê mais em seus julgamentos do que nos Mandamentos de Deus. Estes cultuam-se como deuses, seguem os deleites da carne, cultuam o seu corpo no lugar de Deus. Diz o Apóstolo: "O deus deles é o ventre" (Fp 3, 19). De todas estas coisas, é preciso precaver-se.
+
